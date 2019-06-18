@@ -1,0 +1,7 @@
+C:\Users\selvakumar\source\repos\sample-aspnetapp\sample-aspnetapp\bin\sample-aspnetapp.dll.config
+C:\Users\selvakumar\source\repos\sample-aspnetapp\sample-aspnetapp\bin\sample-aspnetapp.dll
+C:\Users\selvakumar\source\repos\sample-aspnetapp\sample-aspnetapp\bin\sample-aspnetapp.pdb
+C:\Users\selvakumar\source\repos\sample-aspnetapp\sample-aspnetapp\obj\Debug\sample-aspnetapp.csprojAssemblyReference.cache
+C:\Users\selvakumar\source\repos\sample-aspnetapp\sample-aspnetapp\obj\Debug\sample-aspnetapp.csproj.CoreCompileInputs.cache
+C:\Users\selvakumar\source\repos\sample-aspnetapp\sample-aspnetapp\obj\Debug\sample-aspnetapp.dll
+C:\Users\selvakumar\source\repos\sample-aspnetapp\sample-aspnetapp\obj\Debug\sample-aspnetapp.pdb
